@@ -1,0 +1,19 @@
+.gitlink{
+    color: blue;
+    text-align: left;
+    margin-bottom: 10%;
+}
+
+.pcode{
+    margin-bottom: 10%;
+}
+
+.codebox{
+    border: 1px solid #aaa;
+    overflow: auto;
+    padding-left: 10px;
+}
+
+.codebox p{
+    font-weight: bold;
+}
